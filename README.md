@@ -30,6 +30,10 @@ MIT License. Feel free to use, improve, or fork the project.
 
 ---
 
+Read my Medium writing for further understanding: https://medium.com/@busraracoban/legalbot-ai-a-secure-and-smart-assistant-for-legal-documents-23e430a8091b 🤝
+
+---
+
 ## 📦 Installation
 
 ```bash
