@@ -37,7 +37,7 @@ Read my Medium writing for further understanding: https://medium.com/@busraracob
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/LegalBot-AI.git
+git clone https://github.com/Busrara/LegalBot-AI.git
 cd LegalBot-AI
 pip install -r requirements.txt
 
